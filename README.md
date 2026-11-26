@@ -1,6 +1,8 @@
 # EDFA Solo
 
-EDFA Solo is a companion app for Elite Dangerous. It reads your game journals and turns them into a personal record of where you have been, what you have found, and what you are working on. It also gives you planning tools for exploration, combat, trading, ships, carriers and colonisation. The main app runs on your own PC. You can use its local features without an EDFA account, then connect an account if you want syncing and shared features.
+EDFA Solo (https://edfa.uk) is a companion app for Elite Dangerous. It reads your game journals and turns them into a personal record of where you have been, what you have found, and what you are working on. It also gives you planning tools for exploration, combat, trading, ships, carriers and colonisation. The main app runs on your own PC. You can use its local features without an EDFA account, then connect an account if you want syncing and shared features.
+
+Sign up and **download the** client here  - https://edfa.uk
 
 ## Exploration Operations
 
