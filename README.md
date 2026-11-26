@@ -4,7 +4,7 @@ EDFA Solo (https://edfa.uk) is a companion app for Elite Dangerous. It reads you
 
 Sign up and **download the client here**  - https://edfa.uk
 
-<img width="1064" height="1856" alt="image" src="https://github.com/user-attachments/assets/a6fb6377-f771-449e-9dcb-c9d0f2323b79" />
+<img width="2544" height="1376" alt="image" src="https://github.com/user-attachments/assets/a6fb6377-f771-449e-9dcb-c9d0f2323b79" />
 
 ## Exploration Operations
 
