@@ -202,7 +202,7 @@ Button Box turns a tablet, phone or browser window into a custom set of controls
 - Back up and import layouts, including their artwork.
 - Open the controller over your home network after enabling home network access via any device which runs a web browser.
 
-<img width="1064" height="1856" alt="image" src="https://github.com/user-attachments/assets/c44b23c0-2359-4350-8e6b-19c9acfc1557" />
+<img width="1064" height="1856" alt="image" src="https://github.com/user-attachments/assets/b7056569-a1ce-403d-bd64-3e145b5042fa" />
 
 
 ## In-game HUD and shortcuts
