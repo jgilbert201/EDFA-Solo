@@ -2,10 +2,9 @@
 
 EDFA Solo (https://edfa.uk) is a companion app for Elite Dangerous. It reads your game journals and turns them into a personal record of where you have been, what you have found, and what you are working on. It also gives you planning tools for exploration, combat, trading, ships, carriers and colonisation. The main app runs on your own PC. You can use its local features without an EDFA account, then connect an account if you want syncing and shared features.
 
-Sign up and **download the** client here  - https://edfa.uk
+Sign up and **download the client here**  - https://edfa.uk
 
 <img width="2544" height="1376" alt="image" src="https://github.com/user-attachments/assets/a6fb6377-f771-449e-9dcb-c9d0f2323b79" />
-
 
 ## Exploration Operations
 
@@ -21,6 +20,8 @@ Exploration Operations helps you survey the system you are in. It brings your sc
 - Browse exploration history and estimates of biological data you have yet to sell.
 - Use the in-game HUD for route, survey and surface guidance.
 
+<img width="1064" height="1856" alt="image" src="https://github.com/user-attachments/assets/12d975bd-3c9c-420a-964d-d9dd1ea73477" />
+
 ## Wayfinder Operations
 
 Wayfinder helps you find interesting places to visit and turn them into a trip. It is for commanders who want a reason to head somewhere, as well as a route to follow.
@@ -34,6 +35,8 @@ Wayfinder helps you find interesting places to visit and turn them into a trip. 
 - Track system arrivals separately from visits to the actual site.
 - See the current destination in Exploration and use the existing trip and clipboard controls.
 - Record research observations and follow guidance for an optional external Canonn submission.
+
+<img width="1064" height="1856" alt="image" src="https://github.com/user-attachments/assets/a0ea75da-a529-44d2-be1b-c1867ae28b47" />
 
 ## Combat Operations
 
@@ -49,6 +52,8 @@ Combat Operations keeps your recorded ship combat missions and rewards together.
 - Choose which missions appear in the mission HUD.
 - Use a live target HUD and a compact mission HUD while flying in normal space.
 
+<img width="1064" height="1856" alt="image" src="https://github.com/user-attachments/assets/5e7f53ab-95be-4d95-870a-a394d10ce971" />
+
 ## Trading Operations
 
 Trading Operations helps you plan a trade and follow it through. It uses your recorded ship, cargo, location and funds alongside dated market information.
@@ -63,6 +68,8 @@ Trading Operations helps you plan a trade and follow it through. It uses your re
 - See the next stop and run progress in the native HUD.
 - Copy the next route system automatically if you enable that option.
 
+<img width="1064" height="1856" alt="image" src="https://github.com/user-attachments/assets/9178b4fb-c4aa-4333-9420-b15841f0f9d3" />
+
 ## Carrier Operations
 
 Carrier Operations is a private workspace for your fleet carrier. It combines its recorded status with expedition history, route planning and Tritium estimates.
@@ -76,6 +83,10 @@ Carrier Operations is a private workspace for your fleet carrier. It combines it
 - Keep uncertain or missing records visible instead of treating them as completed jumps or confirmed income.
 - Share your carrier’s location with eligible people through EDFA if you choose to.
 
+<img width="1064" height="1856" alt="image" src="https://github.com/user-attachments/assets/9b644a0c-8be3-41fe-9675-63640915d352" />
+<img width="1064" height="1856" alt="image" src="https://github.com/user-attachments/assets/8ba08567-48d6-435b-ab60-a0b5f25979b0" />
+<img width="1064" height="1856" alt="image" src="https://github.com/user-attachments/assets/226b5542-f9a8-4d5d-86de-0604134108d0" />
+
 ## Fleet
 
 Fleet gives you a record of the ships you own and the loadouts Solo has observed. It is a place to check what you have before starting another build.
@@ -86,6 +97,8 @@ Fleet gives you a record of the ships you own and the loadouts Solo has observed
 - See suggested roles for ship models and set your own role for a particular ship.
 - Use ship context to choose suitable HUD defaults.
 - Export known ship builds in SLEF format or open them in EDSY or Coriolis.
+
+<img width="1064" height="1856" alt="image" src="https://github.com/user-attachments/assets/5f29bda6-98a5-47b1-b0b4-f068ea4a4366" />
 
 ## Outfitting Operations
 
@@ -100,6 +113,8 @@ Outfitting Operations helps you work from a target build to a practical shopping
 - Find reported module stock with its observation date.
 - Plan shopping and engineering stops from a chosen starting system.
 - Track engineer, Guardian module and Powerplay unlock information, with manual corrections where the journal record is incomplete.
+
+<img width="1064" height="1856" alt="image" src="https://github.com/user-attachments/assets/6665ea7c-eb8b-44ea-901d-c0c7a04fe3bc" />
 
 ## Colonisation Operations
 
@@ -127,6 +142,7 @@ Material Supplies shows what your commander has collected and helps you spot pla
 - Set a low-stock threshold and preferences for gravity and raw-material abundance.
 - Let Exploration highlight suitable landable bodies with materials you are running low on.
 - Choose how much material shopping appears in Exploration, from off to full.
+<img width="1064" height="1856" alt="image" src="https://github.com/user-attachments/assets/0f905ab9-2b2f-42d5-b780-fbc4d7a43d92" />
 
 ## Ship Journeys
 
@@ -141,6 +157,8 @@ Ship Journeys is a planner for long-distance travel in your own ship. Its stops 
 - Pause and resume a journey without counting travel that happened while it was paused.
 - Keep saved routes readable offline and copy the next waypoint when needed.
 
+<img width="1064" height="1856" alt="image" src="https://github.com/user-attachments/assets/6e752b75-ac4a-4f0c-8adb-6d7836b7202b" />
+
 ## Codex, Discoveries and Records
 
 These views turn your recorded discoveries into a personal collection you can browse later.
@@ -152,6 +170,9 @@ These views turn your recorded discoveries into a personal collection you can br
 - See historical sampling work without assuming an old partial sample is still active in game.
 - Review commander honours and Galactic Records drawn from eligible recorded activity.
 - Use the EDSM Codex recovery helper for personal confirmations when original journal coverage is missing.
+
+<img width="1064" height="1856" alt="image" src="https://github.com/user-attachments/assets/e6837583-9458-46c1-b801-46571fac4183" />
+<img width="1064" height="1856" alt="image" src="https://github.com/user-attachments/assets/9c5e04fa-29f7-4385-940b-31d7591c5724" />
 
 ## CMDR Scrapbook
 
@@ -165,6 +186,8 @@ CMDR Scrapbook lets you save a moment from Elite Dangerous when you choose to ca
 - Search and browse your moments in a timeline.
 - Link EDFA to back up moments to your account and choose whether an individual moment appears on your shared commander profile.
 
+<img width="1064" height="1856" alt="image" src="https://github.com/user-attachments/assets/b895ffed-3421-46a7-be9b-9de1f99baa97" />
+
 ## Button Box
 
 Button Box turns a tablet, phone or browser window into a custom set of controls for Elite Dangerous. Solo runs on the gaming PC and sends the button presses there.
@@ -177,7 +200,10 @@ Button Box turns a tablet, phone or browser window into a custom set of controls
 - Choose layouts manually or enable switching when Solo detects a change between ship, fighter, SRV and on-foot play.
 - Edit layouts on desktop and use a simpler controller view on a tablet or phone.
 - Back up and import layouts, including their artwork.
-- Open the controller over your home network after enabling home network access.
+- Open the controller over your home network after enabling home network access via any device which runs a web browser.
+
+<img width="1064" height="1856" alt="image" src="https://github.com/user-attachments/assets/c44b23c0-2359-4350-8e6b-19c9acfc1557" />
+
 
 ## In-game HUD and shortcuts
 
@@ -191,6 +217,8 @@ Solo can show information over Elite Dangerous while you play. You choose which 
 - Use shortcuts for actions such as changing survey targets, saving a surface waypoint and capturing a Scrapbook moment.
 - Set up three quick-switch slots for Operations, with manual choices or your three most recently used workspaces.
 - Assign keyboard or supported controller buttons to quick-switch actions.
+
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/8cec3b94-2aec-4263-a1bb-28e030203b4a" />
 
 ## Config & Link
 
@@ -206,6 +234,12 @@ Config & Link is where you set up Solo for your game installation and choose whi
 - Set up optional EDSM, Inara, EDDN, EDAstro and Canonn sharing, each with its own choices.
 - Open local logs when you need to investigate a problem.
 
+<img width="1064" height="1856" alt="image" src="https://github.com/user-attachments/assets/d751e850-5400-478b-b041-57ee1cedf574" />
+<img width="1064" height="1856" alt="image" src="https://github.com/user-attachments/assets/ffde0ba5-7c10-4bbe-a292-521dfe1bb5c5" />
+<img width="1064" height="1856" alt="image" src="https://github.com/user-attachments/assets/3e551dcf-599f-4650-846e-d05631a06e2e" />
+<img width="1064" height="1856" alt="image" src="https://github.com/user-attachments/assets/f457e27c-1989-4494-bb3f-0acd1cc643a0" />
+
+
 ## EDFA account and shared features
 
 Solo works locally first. Linking it to EDFA adds account-backed history, recovery and social features for commanders who want them.
@@ -219,5 +253,6 @@ Solo works locally first. Linking it to EDFA adds account-backed history, recove
 - Share your recorded commander or carrier position with eligible people when location sharing is enabled.
 - See your commander honours and shared profile information.
 
+<img width="1064" height="1856" alt="image" src="https://github.com/user-attachments/assets/f7f27a64-ecc7-417f-a646-5bdb511f9a9e" />
 
 
