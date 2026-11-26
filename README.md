@@ -4,7 +4,7 @@ EDFA Solo (https://edfa.uk) is a companion app for Elite Dangerous. It reads you
 
 Sign up and **download the client here**  - https://edfa.uk
 
-<img width="2544" height="1376" alt="image" src="https://github.com/user-attachments/assets/a6fb6377-f771-449e-9dcb-c9d0f2323b79" />
+<img width="1064" height="1024" alt="image" src="https://github.com/user-attachments/assets/a6fb6377-f771-449e-9dcb-c9d0f2323b79" />
 
 ## Exploration Operations
 
@@ -20,7 +20,7 @@ Exploration Operations helps you survey the system you are in. It brings your sc
 - Browse exploration history and estimates of biological data you have yet to sell.
 - Use the in-game HUD for route, survey and surface guidance.
 
-<img width="1064" height="1856" alt="image" src="https://github.com/user-attachments/assets/12d975bd-3c9c-420a-964d-d9dd1ea73477" />
+<img width="1064" height="1024" alt="image" src="https://github.com/user-attachments/assets/12d975bd-3c9c-420a-964d-d9dd1ea73477" />
 
 ## Wayfinder Operations
 
