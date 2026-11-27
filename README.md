@@ -132,6 +132,14 @@ Colonisation Operations is a workspace for planning systems, construction sites 
 - See the current construction site or selected load in the optional colony HUD.
 - Link an EDFA account to sync your projects and work with permitted crew members.
 
+<img width="2559" height="1397" alt="image" src="https://github.com/user-attachments/assets/493bc455-3bd9-43ca-9b0d-9a2cbcaf8c39" />
+<img width="2557" height="1400" alt="image2" src="https://github.com/user-attachments/assets/787e28c5-a9cc-4cbd-962d-a1f523d3727b" />
+<img width="2559" height="1396" alt="image3" src="https://github.com/user-attachments/assets/14f6d3df-167b-4ea2-a734-e31358b9bd20" />
+<img width="2559" height="1400" alt="image4" src="https://github.com/user-attachments/assets/c94e8f24-d4e1-4127-9d3e-cbf40d5ea4f5" />
+<img width="2556" height="1399" alt="image5" src="https://github.com/user-attachments/assets/498de2be-6804-401b-94e1-af0c78ecc355" />
+<img width="2139" height="998" alt="image6" src="https://github.com/user-attachments/assets/891416ad-5d65-4b7d-9098-ad5b10c5a1a0" />
+<img width="2114" height="1025" alt="image7" src="https://github.com/user-attachments/assets/f44c6989-c242-4ea7-8a17-ccec28b41e3e" />
+
 ## Material Supplies
 
 Material Supplies shows what your commander has collected and helps you spot places to replenish it.
